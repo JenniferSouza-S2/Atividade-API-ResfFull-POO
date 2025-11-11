@@ -9,7 +9,9 @@
 
 ##  Integrantes do Grupo
 - **Beatriz Prates**
+- **Bruno Albefaro**
 - **Gabriella Kailainy**
+- **Guilherme Coelho**
 - **Jennifer Pires**
 
 ---
@@ -29,6 +31,7 @@ A API foi desenvolvida como parte das atividades práticas da disciplina **Desen
 - **HTML5**   
 - **CSS3** 
 - **JavaScript**
+
 
 
 
