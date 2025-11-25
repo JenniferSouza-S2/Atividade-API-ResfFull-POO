@@ -24,10 +24,11 @@ A API foi desenvolvida como parte das atividades práticas da disciplina **Desen
 ##  Tecnologias Utilizadas
 - **Node.js**
 - **Express**
-- **MySQL2**
+- **SQL LITE**
 - **HTML5**   
 - **CSS3** 
 - **JavaScript**
+
 
 
 
